@@ -1,4 +1,4 @@
 public  class Main{
 	private String name;	//name
-	private String firstname;	//name
+	private String firstname;
 }
